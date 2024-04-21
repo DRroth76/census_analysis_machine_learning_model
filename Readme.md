@@ -73,4 +73,3 @@ References:
 •	GitHub: https://github.com/
 •	Chat GPT
 
-![image](https://github.com/DRroth76/census_analysis_machine_learning_model/assets/147959766/d69963c2-4119-43e6-a9d6-fc505ee079c5)
